@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aline</h1>
 
+## 🧰 Tech Stack
+
 <p align="center">
   <!-- Programmiersprachen & Runtime -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -44,15 +46,6 @@
 
 I have **four years of front-end experience**, mainly in the e-commerce sector. <br />
 Currently, I am expanding my skills in full-stack development through a ***14-month intensive program at the Masterschool**.
-
----
-
-## 💼 Soft Skills
-
-✔️ Agile development (Scrum / Kanban)  
-✔️ Strong motivation and drive  
-✔️ High level of commitment  
-✔️ Ability to work under pressure  
 
 ---
 
