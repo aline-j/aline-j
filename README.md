@@ -42,12 +42,8 @@
 
 ## 🧑‍💻 About Me
 
-I’m a software developer with **4 years of professional front-end experience**, working primarily in the **e-commerce sector**.  
-Currently, I’m expanding my expertise in **full-stack development** through a **14-month intensive program at Masterschool**, focused on:
-
- 🔧 Modern technologies  
- 💡 Clean code principles  
- 🌍 Real-world project development  
+I have **four years of front-end experience**, mainly in the e-commerce sector. <br />
+Currently, I am expanding my skills in full-stack development through a ***14-month intensive program at the Masterschool**.
 
 ---
 
